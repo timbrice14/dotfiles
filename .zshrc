@@ -33,3 +33,4 @@ eval "$(zoxide init zsh)"
 alias cd="z"
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export PATH="/opt/homebrew/opt/ruby@3.2/bin:$PATH"
